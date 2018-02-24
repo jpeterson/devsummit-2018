@@ -1,0 +1,39 @@
+html, body, #viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#optionsDiv {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  bottom: 17px;
+  width: 100%;
+  padding: 20px 0;
+  z-index: 1;
+}
+
+#optionsDiv button {
+  background: white;
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #005e95;
+  font-size: 1em;
+  margin: 7px;
+  color: #005e95;
+  font-family: "Avenir Next W01", "Arial", sans-serif;
+}
+
+#optionsDiv button:active {
+  background: #005e95;
+  color: white;
+  cursor: pointer;
+}
+
+#optionsDiv input {
+  width: 200px;
+  margin: 7px;
+}
