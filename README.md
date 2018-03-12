@@ -4,6 +4,6 @@ The world of web development is constantly changing, and staying abreast of the 
 
 [Session Description](https://devsummit2018.schedule.esri.com/schedule/1379391571)
 
-Slides (not yet!)
+[Slides](http://esriurl.com/ModernTools2018)
 
 Recording (not yet!)
