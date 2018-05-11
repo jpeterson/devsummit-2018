@@ -6,4 +6,4 @@ The world of web development is constantly changing, and staying abreast of the 
 
 [Slides](http://esriurl.com/ModernTools2018)
 
-Recording (not yet!)
+[Recording](https://www.youtube.com/watch?v=y35Je9YFoqQ)
